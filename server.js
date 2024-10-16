@@ -1,4 +1,5 @@
 // SERVER URL = https://mixed-married-gray.glitch.me
+// Implemented in glitch.com (Not for VSCode)
 
 import express from "express";
 import axios from "axios";
